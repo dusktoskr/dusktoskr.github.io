@@ -21,9 +21,8 @@ Suppose that for some particular but arbitrarily chosen integer $k\ge1$,  $P(k)$
 $$1^{3}+2^{3}+3^{3}+...+k^{3}=\Big[\frac{k(k+1)}{2}\Big]^{2}\ \ \text{ For all }k\ge 1$$
 Show that $P(k+1)$ is also true.
 ### L.H.S.
-$$\begin{eqnarray}
-1^{3}+2^{3}+3^{3}+...+k^{3}+(k+1)^3=
-\end{eqnarray}$$
+$$1^{3}+2^{3}+3^{3}+...+k^{3}+(k+1)^3=$$
+
 By the substitution of the inductive hypothesis,
 
 By Algebra
